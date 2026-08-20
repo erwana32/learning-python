@@ -1,0 +1,30 @@
+Berapa hasil 2 + 1?|3,4,5,6
+Warna daun kebanyakan?|Hijau,Merah,Biru,Kuning
+Hewan yang bisa terbang?|Burung,Sapi,Kucing,Kerbau
+Alat untuk menulis?|Pensil,Piring,Sendok,Sapu
+Ibu dari ayah adalah?|Nenek,Sepupu,Kakak,Adik
+Berapa jari tangan manusia?|10,8,6,12
+Tempat untuk membeli makanan?|Pasar,Kebun,Kolam,Tempat tidur
+Hari setelah Senin?|Selasa,Jumat,Kamis,Minggu
+Bentuk bola?|Bulat,Kotak,Segitiga,Persegi
+Berapa telinga manusia?|2,1,3,4
+Mesin untuk belajar di kelas?|Guru,Motor,Truk,Permen
+Alat untuk menghapus tulisan?|Penghapus,Garpu,Sendok,Kain lap
+Berapa hari dalam 1 minggu?|7,5,8,9
+Matahari terbit dari arah?|Timur,Barat,Utara,Selatan
+Hewan yang hidup di air?|Ikan,Kucing,Sapi,Ayam
+Hewan yang berkaki dua?|Ayam,Kucing,Sapi,Kuda
+Sayur berwarna oren?|Wortel,Kangkung,Bayam,Kubis
+Binatang yang menghasilkan susu?|Sapi,Kucing,Ayam,Kuda
+Bagian tubuh untuk mencium?|Hidung,Telinga,Mata,Tangan
+Tempat menyimpan buku di kelas?|Rak,Kursi,Laci,Lemari pakaian
+Hari sebelum Selasa?|Senin,Kamis,Jumat,Minggu
+Kendaraan beroda dua?|Sepeda,Bus,Mobil,Truk
+Hewan yang mengeluarkan suara “guk guk”?|Anjing,Kucing,Ayam,Kambing
+Benda yang digunakan untuk membaca waktu?|Jam,Pensil,Kertas,Piring
+Rasa garam?|Asin,Manis,Asam,Pahit
+Alat untuk memotong kertas?|Gunting,Piring,Garpu,Sendok
+Tempat kita tidur?|Tempat tidur,Kursi,Meja,Lemari
+Bagian tubuh untuk makan?|Mulut,Hidung,Telinga,Mata
+Minuman utama untuk bayi?|Susu,Teh,Kopi,Air soda
+Hewan yang memiliki belalai?|Gajah,Sapi,Kuda,Ka
